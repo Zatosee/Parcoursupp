@@ -1,0 +1,8 @@
+{
+  "name": "Site parcoursupp",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "swiper": "^9.0.5"
+  }
+}
